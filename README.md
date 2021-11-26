@@ -1,6 +1,6 @@
 # ArtisanRoastProfiles
 
-A place to share, comment, and tweak roast profiles for Coffee Crafter's Artisan roasters with the StellarBeans PID automation kit.
+A place to share, comment on, and tweak roast profiles for Coffee Crafter's Artisan roasters with the StellarBeans PID automation kit.
 
 Coffee Crafter's Roasters: https://coffeecrafters.com/
 
